@@ -9,8 +9,8 @@ This project contains three example React applications.
 Simply open any of the demos and run `npm install` followed bu `npm start` to see them in action. You should go through all the code and read the comments; I put them there just for you!
 
 ## More Information
-###Redux
+#### Redux
 * [Tutorial Videos](https://egghead.io/courses/getting-started-with-redux) by Dan Abrimov
 
-###React Router
+#### React Router
 * [Docs](https://reacttraining.com/react-router/)
